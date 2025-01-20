@@ -87,7 +87,7 @@ The tool generates insights such as:
 ---
 
 ## Demo Video
-A video link demonstrating the tool is included in the `demo_video/` folder. Alternatively, you can view it [here](https://drive.google.com/file/d/1ZDDozkTxqhy_5jMrnRWCB1mECfx_bSsk/view?usp=sharing).
+A video link demonstrating the tool is included in the `/demo_video` file. Alternatively, you can view it [here](https://drive.google.com/file/d/1ZDDozkTxqhy_5jMrnRWCB1mECfx_bSsk/view?usp=sharing).
 
 ### Contents of the Video
 1. Introduction to the project.
