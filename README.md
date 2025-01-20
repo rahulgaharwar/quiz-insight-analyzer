@@ -80,9 +80,9 @@ The tool generates insights such as:
 ## Screenshots
 ### Visualization Examples:
 - **Performance by Topic**:
-  ![Performance by Topic](screenshots/visualization1.png)
+  ![Performance by Topic](screenshots/visualisation1.png)
 - **Accuracy Trends**:
-  ![Accuracy Trends](screenshots/visualization2.png)
+  ![Accuracy Trends](screenshots/visualisation2.png)
 
 ---
 
