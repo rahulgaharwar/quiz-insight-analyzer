@@ -87,13 +87,12 @@ The tool generates insights such as:
 ---
 
 ## Demo Video
-A video demonstrating the tool is included in the `demo_video/` folder. Alternatively, you can view it [here](#).
+A video link demonstrating the tool is included in the `demo_video/` folder. Alternatively, you can view it [here](https://drive.google.com/file/d/1ZDDozkTxqhy_5jMrnRWCB1mECfx_bSsk/view?usp=sharing).
 
 ### Contents of the Video
 1. Introduction to the project.
 2. Loading and analyzing sample data.
 3. Visualizations and insights generation.
-4. Recommendations for improvement.
 
 ---
 
